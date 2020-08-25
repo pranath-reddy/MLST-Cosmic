@@ -1,2 +1,2 @@
 # MLST-Cosmic
-Code to generate random Cosmic Microwave Background(CMB) temperature maps and analyze it using deep learning models
+### Baryon density extraction and isotropy analysis of Cosmic Microwave Background using Deep Learning
